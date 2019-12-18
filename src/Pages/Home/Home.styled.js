@@ -1,10 +1,11 @@
-import styled from "styled-components";
+import styled from 'styled-components';
 
 export const StyledHome = styled.nav`
-  display: flex;
-  padding: 2rem;
-  justify-content: space-around;
-  align-items: stretch;
-  width: 80vw;
-  height: 90vh;
+	display: flex;
+	padding: 2rem;
+	justify-content: space-around;
+	align-items: stretch;
+	width: 80vw;
+	height: 90vh;
+	flex-wrap: wrap;
 `;
